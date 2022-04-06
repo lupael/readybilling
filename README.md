@@ -1,7 +1,6 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/pterobilling/pterobilling/master/.github/icon_blue.png" alt="PteroBilling" width="150px">
-    <h1>PteroBilling</h1>
-    <h3>An open-source Laravel 8 online store, client area, and billing software specially made for Pterodactyl panel</h3>
+    <h1>Billing</h1>
+    <h3>Laravel 8 online store, client area, and billing software specially made for Pterodactyl panel</h3>
     <img src="https://img.shields.io/github/v/release/pterobilling/pterobilling?sort=semver&color=green&label=stable&style=for-the-badge" alt="stable release badge">&emsp;
     <img src="https://img.shields.io/github/v/release/pterobilling/pterobilling?include_prereleases&sort=semver&label=latest&style=for-the-badge" lt="latest release badge)">&emsp;
     <img src="https://img.shields.io/github/stars/pterobilling/pterobilling?style=for-the-badge" alt="stars badge">&emsp;
@@ -31,22 +30,3 @@
 ### Pre-installed Extensions
 PayPal, Cloudflare Zone, cPanel Zone, Minecraft JAR
 
-Please feel free to suggest more on [our Discord server](https://discord.gg/GQ5EWQz6MQ) (*Make sure to check the to-do list first*)
-
-## Demo
-If you want to take a quick look at Pterobilling, you can do so at out public hosted [demo](https://demo.pterobilling.org). You can login with `admin@example.com | password`
-
-## Getting Started
-Please read our [documentation](https://docs.pterobilling.org/).
-
-## Support
-**Make sure you have gone through the documentation before asking for help. Thank you!**
-
-Need help setting up PteroBilling? Ask on the [discussions page](https://github.com/pterobilling/pterobilling/discussions).
-
-Have a Discord account? Join [our Discord server](https://discord.gg/GQ5EWQz6MQ).
-
-**PLEASE DON'T ASK FOR HELP ON THE ISSUES PAGE!** That's for bug reports and feature requests.
-
-## License
-PteroBilling and AdminLTE, the website theme it uses, are licensed under the MIT license. Please take a look at the `LICENSE` and `AdminLTE-LICENSE` files.
